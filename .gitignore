@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Gradle ###
+out/
+.gradle/
+build/
+
+### Danger ###
+node_modules/
+yarn-error.log
+
+### Custom ###
+samples/
